@@ -1,10 +1,10 @@
 // pastel colors
 let clrs = [
-'#B6D3DB', //top 0
-'#DCEFE8', //middle top 1
-'#FFFEED', //middle strip 2
-'#FDD5E0', //middle bottom 3
-'#ADB3DB' //bottom 4
+'#DFC3B7', //top 0
+'#F5E5C9', //middle top 1
+'#D5DCAC', //middle strip 2
+'#EBEEC4', //middle bottom 3
+'#B5CEBF' //bottom 4
 ]
 
 
